@@ -116,4 +116,9 @@ The augmentative analysis feature allows users to analyze the effect of various 
 
 Network analysis is used to analyze the architecture efficiency of deep learning models. The distribution of weights and bias of each convolution layer are plotted. If the range of weights decreases consecutively, then the model is optimal. If distribution upper and lower limits don’t go almost asymptotic, more layers can be added to the model. A layer showing a sudden high range of weights causes problems in feature extraction, then try to decrease the layer’s kernel size. If the Last layer tends to have a bimodal distribution, then that model is best.
 ![alt text](photos/architecture.png)
+ 
+### Result
 
+Our team won silver medal in Inter IIT Tech Meet 9.0, 2021 in this competetion. Here's our team form IIt Roorkee
+
+![WhatsApp Image 2021-06-02 at 3 32 20 AM](https://user-images.githubusercontent.com/58288212/120395967-7ce4bf80-c353-11eb-9708-ac683171726b.jpeg)
