@@ -119,6 +119,5 @@ Network analysis is used to analyze the architecture efficiency of deep learning
  
 ### Result
 
-Our team won silver medal in Inter IIT Tech Meet 9.0, 2021 in this competetion. Here's our team form IIt Roorkee
-
+Our team won silver medal in Inter IIT Tech Meet 9.0, 2021 in this competetion. Here's our team form IIT Roorkee
 ![WhatsApp Image 2021-06-02 at 3 32 20 AM](https://user-images.githubusercontent.com/58288212/120395967-7ce4bf80-c353-11eb-9708-ac683171726b.jpeg)
