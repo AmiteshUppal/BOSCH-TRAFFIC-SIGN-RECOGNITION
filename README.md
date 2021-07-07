@@ -1,4 +1,6 @@
 # BOSCH's TRAFFIC SIGN RECOGNITION
+Detailed report given in PDF
+[Experimental Details.pdf](https://github.com/AmiteshUppal/BOSCH-TRAFFIC-SIGN-RECOGNITION/files/6774927/Experimental.Details.pdf)
 
 
 
